@@ -21,3 +21,5 @@ Além disso temos OR, AND, NOT, Shmitt Trigger, NAND, JK e NE555.
 - NE555: confirmar o IC; verificar se as portas deste IC são negadas (no PADS estão RES, THR e DIS).
 
 - Dilema: Usar varios IC e menos ligações vs minimo de ICs e ligações mais complicadas.
+
+- Verificar se foram usados os componentes corretos, tais como condensadores e resistencias.
