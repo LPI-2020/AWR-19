@@ -15,3 +15,9 @@ Além disso temos OR, AND, NOT, Shmitt Trigger, NAND, JK e NE555.
 - Ter em atenção que vamos ter 4 jumpers de saída, para ligar ao Driver.
 
 - Ver se vale a pena pôr LEDs para indicar o estado atual, em B0 e B1.
+
+------------------- 02/01/2021 ------------------
+
+- NE555: confirmar o IC; verificar se as portas deste IC são negadas (no PADS estão RES, THR e DIS).
+
+- Dilema: Usar varios IC e menos ligações vs minimo de ICs e ligações mais complicadas.
