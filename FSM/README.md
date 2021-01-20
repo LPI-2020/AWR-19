@@ -1,5 +1,7 @@
 # PI-LPI_I/FSM
 
+In use: v2.5
+
 Resources - Holds various materials that helped or will help implement features.
 
 v1 - Robot makes 180 degree turn when arriving at the end of the line and then stops.
