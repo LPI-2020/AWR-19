@@ -1,4 +1,0 @@
-Driver Motores: https://www.botnroll.com/pt/motores-e-atuadores/1000-l298n-motor-driver-board-.html
-Toggle: https://www.allaboutcircuits.com/technical-articles/t-is-for-toggle-understanding-the-t-flip-flop/
-Mapa karnough: http://www.32x8.com/var6.html
-Debounce: https://www.youtube.com/watch?v=tmjuLtiAsc0
