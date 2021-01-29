@@ -525,17 +525,17 @@ OUT_SENSOR8
 $Comp
 L Connector:Conn_01x02_Female J7
 U 1 1 60274DE2
-P 9900 2950
-F 0 "J7" H 9928 2926 50  0000 L CNN
-F 1 "Conn_01x02_Female" H 9928 2835 50  0001 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 9900 2950 50  0001 C CNN
-F 3 "~" H 9900 2950 50  0001 C CNN
-	1    9900 2950
+P 9950 2900
+F 0 "J7" H 9978 2876 50  0000 L CNN
+F 1 "Conn_01x02_Female" H 9978 2785 50  0001 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 9950 2900 50  0001 C CNN
+F 3 "~" H 9950 2900 50  0001 C CNN
+	1    9950 2900
 	1    0    0    -1  
 $EndComp
-Text GLabel 9700 3050 0    50   Input ~ 0
+Text GLabel 9750 3000 0    50   Input ~ 0
 IN_SENSOR5
-Text GLabel 9700 2950 0    50   Input ~ 0
+Text GLabel 9750 2900 0    50   Input ~ 0
 OUT_SENSOR5
 Text GLabel 9750 3300 0    50   Input ~ 0
 +5V
@@ -569,7 +569,7 @@ U 1 1 602A22C0
 P 5900 2650
 F 0 "C1" H 6015 2696 50  0000 L CNN
 F 1 "C" H 6015 2605 50  0001 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5938 2500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 5938 2500 50  0001 C CNN
 F 3 "~" H 5900 2650 50  0001 C CNN
 	1    5900 2650
 	1    0    0    -1  
@@ -597,7 +597,7 @@ U 1 1 602A4547
 P 6200 2650
 F 0 "C2" H 6315 2696 50  0000 L CNN
 F 1 "C" H 6315 2605 50  0001 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 6238 2500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6238 2500 50  0001 C CNN
 F 3 "~" H 6200 2650 50  0001 C CNN
 	1    6200 2650
 	1    0    0    -1  
@@ -625,7 +625,7 @@ U 1 1 602A6DF2
 P 6550 2650
 F 0 "C4" H 6665 2696 50  0000 L CNN
 F 1 "C" H 6665 2605 50  0001 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 6588 2500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6588 2500 50  0001 C CNN
 F 3 "~" H 6550 2650 50  0001 C CNN
 	1    6550 2650
 	1    0    0    -1  
@@ -653,7 +653,7 @@ U 1 1 602AA373
 P 7150 2650
 F 0 "C3" H 7265 2696 50  0000 L CNN
 F 1 "C" H 7265 2605 50  0001 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 7188 2500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7188 2500 50  0001 C CNN
 F 3 "~" H 7150 2650 50  0001 C CNN
 	1    7150 2650
 	1    0    0    -1  
@@ -681,7 +681,7 @@ U 1 1 602AD427
 P 7450 2650
 F 0 "C5" H 7565 2696 50  0000 L CNN
 F 1 "C" H 7565 2605 50  0001 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 7488 2500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7488 2500 50  0001 C CNN
 F 3 "~" H 7450 2650 50  0001 C CNN
 	1    7450 2650
 	1    0    0    -1  
