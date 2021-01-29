@@ -1,6 +1,6 @@
 # PI-LPI_I/FSM
 
-Currently in use: v1.8
+**_Version_ currently in use: v1.8**
 
 Resources - Holds various materials that helped or will help implement features.
 
