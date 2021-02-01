@@ -1,0 +1,25 @@
+- A porta 74LS14 - Shmitt Trigger é usada na saída do circuito de debounce. Também deverá ser utilizada
+para conectar as saídas dos sensores S1 e S8 à PCB da fsm, visto que esses valores poderão não ser exatamente
+0 ou 5V, e a Shmitt Trigger compensa isso. Visto que cada 74LS14 tem 4 portas poderemos usar o IC apenas
+nesta PCB. Depois só é necessário ligar os S1, S8 e B a um jumper.
+
+- Verificar se quando é retirada a alimentação dos flip flops JK ocorre reset do estado. Ou seja,
+verificar se ao ligar o robot após ter sido desligado enquanto estava em andamento, que B1 e B0
+iniciam a 0, e não, com os valores dos últimos estados.
+ 
+- Alterei a porta lógica que ligava ás ANDs de saída por uma OR, visto que (B1'&B0')' = B1+B0
+
+- Ter em atenção que algumas entradas dos JK estão negadas. Temos portas NANDs já compradas, caso queiramos usar.
+Além disso temos OR, AND, NOT, Shmitt Trigger, NAND, JK e NE555.
+
+- Ter em atenção que vamos ter 4 jumpers de saída, para ligar ao Driver.
+
+- Ver se vale a pena pôr LEDs para indicar o estado atual, em B0 e B1.
+
+------------------- 02/01/2021 ------------------
+
+- NE555: confirmar o IC; verificar se as portas deste IC são negadas (no PADS estão RES, THR e DIS).
+
+- Dilema: Usar varios IC e menos ligações vs minimo de ICs e ligações mais complicadas.
+
+- Verificar se foram usados os componentes corretos, tais como condensadores e resistencias.
