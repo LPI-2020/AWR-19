@@ -1,6 +1,7 @@
-# PI-LPI_I
+# Analog Waiter Robot (AWR-19)
 
-AWR-19 - Analog Waiter Robot
+Developed in:
+- Projeto Integrador - LPI I (2020)
 
 Members:
 - Bruno Miguel Vasconcelos da Silva, a88289
